@@ -1,0 +1,5 @@
+[package]
+
+name = "do_the_thing"
+version = "0.1.0"
+authors = ["Anu Bandi <ultimateanu@gmail.com>"]
